@@ -15,6 +15,7 @@
                 "bcrypt.c",
                 "groestl.c",
                 "blake.c",
+		"bmw.c",
                 "fugue.c",
                 "qubit.c",
                 "hefty1.c",
